@@ -6,7 +6,7 @@
 ## 💻 Tech Stack:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,html,css,php,javascript,laravel,sql" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,cs,html,css,php,javascript,laravel,bootstrap,figma,unity,mysql,sqlite" />
   </a>
 </p>
 
